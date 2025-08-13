@@ -1,4 +1,4 @@
-# Atlassuiteへようこそ！ 👋
+# welcome to aitera.ai！ 👋
 
 **次世代SaaSのためのコアプラットフォーム**
 
